@@ -1,0 +1,50 @@
+License Zero Noncommercial Public License 2.0.1
+
+Copyright: Kyle E. Mitchell
+
+Source: https://github.com/licensezero/example-l0-nc-package
+
+**This software comes as is, without any warranty at all. As far
+as the law allows, I will not be liable for any damages related
+to this software or this license, for any kind of legal claim.**
+
+As long as you meet the conditions below, you may do everything
+with this software that would otherwise infringe my copyright in
+it or any covered patent claim. Your permission covers a patent
+claim that I can license, or become able to license, if you would
+infringe it by using this software as of my latest contribution.
+
+1. You must ensure that everyone who gets a copy of this software
+   from you, in source code or any other form, also gets the
+   complete text of this license and the copyright and source
+   notices above.
+
+2. You must not make any legal claim against anyone for
+   infringing any patent claim they would infringe by using this
+   software alone, accusing this software, with or without
+   changes, alone or combined into a larger program.
+
+3. You must limit use of this software in any manner primarily
+   intended for or directed toward commercial advantage or
+   private monetary compensation to a period of 7
+   consecutive calendar days. This limit does not apply to use in
+   developing feedback, modifications, or extensions that you
+   contribute back to those giving this license.
+
+---
+
+Licensor Signature (Ed25519):
+
+a829f31129de3b2534f8f31691f5c172
+d9bb4f70cf6ec48cd4447f8a060aabc2
+b5cc15c78bc92bff3c7c5624044ce467
+bc0da6f5efa7bdbf7f812a369529ff06
+
+---
+
+Agent Signature (Ed25519):
+
+d0ee59bd926e314c448efadd139ce1f8
+43608c8663f44ae3a6dc29cd93b646e4
+31b8f46cdf08025d8e46e678de012064
+a7c4333ec9c7c113de47a05569fb2007
