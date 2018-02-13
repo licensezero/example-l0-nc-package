@@ -1,6 +1,6 @@
 {
   "name": "example-l0-nc-package",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a test package licensed under the License Zero Noncommercial Public License",
   "author": "Kyle E. Mitchell <kyle@artlessdevices.com>",
   "repository": "licensezero/example-l0-nc-package",
