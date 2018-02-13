@@ -26,7 +26,7 @@ infringe it by using this software as of my latest contribution.
 
 3. You must limit use of this software in any manner primarily
    intended for or directed toward commercial advantage or
-   private monetary compensation to a period of 7
+   private monetary compensation to a period of 32
    consecutive calendar days. This limit does not apply to use in
    developing feedback, modifications, or extensions that you
    contribute back to those giving this license.
@@ -35,16 +35,16 @@ infringe it by using this software as of my latest contribution.
 
 Licensor Signature (Ed25519):
 
-a829f31129de3b2534f8f31691f5c172
-d9bb4f70cf6ec48cd4447f8a060aabc2
-b5cc15c78bc92bff3c7c5624044ce467
-bc0da6f5efa7bdbf7f812a369529ff06
+395431eccd19cbf114ff95cf39fa996b
+99463565fc63db73864bd114cf964001
+cc06810f091b3e65b9ce93f474c9d85e
+61fb934f71c052f59cd3dbbe53faa10f
 
 ---
 
 Agent Signature (Ed25519):
 
-d0ee59bd926e314c448efadd139ce1f8
-43608c8663f44ae3a6dc29cd93b646e4
-31b8f46cdf08025d8e46e678de012064
-a7c4333ec9c7c113de47a05569fb2007
+52ec6996ac23bac5fac0f82d3d828f4a
+21c4574e1efafaee68e6c6df5b4de3c1
+a480da45f4d3df2b6d37a4fccb8bf42e
+300497e254d3819614002a3d8246d50e
